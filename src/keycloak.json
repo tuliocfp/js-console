@@ -1,0 +1,10 @@
+{
+  "realm": "CAIXA",
+  "auth-server-url": "https://keycloak-rhsso.apps.cluster-rm56t.rm56t.sandbox3061.opentlc.com/auth/",
+  "ssl-required": "external",
+  "resource": "app",
+  "credentials": {
+    "secret": "t69zrX89kWhOmNVY5xoTPE1DmRvIaDUx"
+  },
+  "confidential-port": 0
+}
